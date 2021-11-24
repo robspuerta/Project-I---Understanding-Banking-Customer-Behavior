@@ -15,7 +15,7 @@ One way to set the structure in our CRM to collect data is by answering two ques
 
 A Saving Account life cycle could be: Consideration, Acquisition, Product Uses, Claims, and Attrition; and Customer interactions with the Bank (or product) could go from #1what is a saving account and #5 how can I get it?" to more complex interactions like #4 transfers, #5 payments and, #14 withdrawals. All these actions can be identified, registered, and measured.
 
-(imagen1)
+<img src="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior/blob/main/CustomerPatterns.jpg" alt="Robin Puerta Business Process Analyst + Product Analyst">
 
 Now that we have collected data of 24 types of interactions from 5 different stages of our Customer Journey, we can analyze and make some educated guesses on the customer's behavior patterns. 
 
