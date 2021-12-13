@@ -5,9 +5,11 @@ Google Data Analytics Certification Capstone Project: Understanding Banking Cust
 
 Society grows and changes with time and this affects directly our consumer's behavior in unpredictable ways, even more with recent global events according to [Time magazine](https://time.com/5947302/covid-19-data/). It is essential to grow and change with our Clients, allocating our resources to what matters to them to keep competitive. 
 
-## But how can we understand our customer's behaviors to make better decisions?
+### But how can we understand our customer's behaviors to make better decisions?
 
+Regardless of the sector like Health, E-commerce, Financial, or other; gathering data about customers' interactions with our products and services is key for understanding what our Clients think and do. This way we'll be able to <u> make data-driven decisions and focus our strategy on what customers care about </u>, for example, more benefits, faster assistance, etc. 
 
+Customer Relationship Manager (CRM) softwares like Salesforce or Microsoft Dynamics are great to gather and store omnichannel customer interactions as long as we have set a good business process and technical structure for it.
 
 
 
