@@ -31,3 +31,10 @@ Now that we have collected and processed all this as information, we can create 
 Let me know in the comments what sector are you in and if your organization is constantly getting feedback from your Clients and improving its experience by making data-driven decisions.   
 
 This was an educational exercise, part of the [Google - Data Analytics Certification](https://www.linkedin.com/in/robin-puerta/) focused on How to collect, clean, process, and present data. You can check the full data structure and more on [GitHub/robspuerta](https://github.com/robspuerta/). 
+
+#####This was an educational exercise, part of the [Google - Data Analytics Certification](https://www.linkedin.com/in/robin-puerta/) focused on How to collect, clean, process, and present data. You can check the full data structure and more on [GitHub/robspuerta](https://github.com/robspuerta/).  #####
+
+Boxed
+<table><tr><td>This was an educational exercise, part of the [Google - Data Analytics Certification](https://www.linkedin.com/in/robin-puerta/) focused on How to collect, clean, process, and present data. You can check the full data structure and more on [GitHub/robspuerta](https://github.com/robspuerta/).</td></tr></table>
+
+<sub>This was an educational exercise, part of the [Google - Data Analytics Certification](https://www.linkedin.com/in/robin-puerta/) focused on How to collect, clean, process, and present data. You can check the full data structure and more on [GitHub/robspuerta](https://github.com/robspuerta/). </sub>
