@@ -12,7 +12,7 @@ Society grows and changes with time and this affects directly our consumer's beh
 
 
 
-But how can we understand our customer's behaviors to make better decisions?
+### But how can we understand our customer's behaviors to make better decisions?
 Regardless the sector like Health, E-commerce, Financial, or other; gathering data about customer's interactions with our products and services is key for understanding what our Clients think and do. This way we'll be able to make data-driven decisions and focus our strategy on what customers care about, for example, more discounts, faster assistance, etc. 
 
 Customer Relationship Manager (CRM) software like Salesforce or Microsoft Dynamics is great to gather and store omnichannel customer interactions as long as we have set a good business process and technical structure for it.
