@@ -7,7 +7,7 @@ Society grows and changes with time and this affects directly our consumer's beh
 
 ### But how can we understand our customer's behaviors to make better decisions?
 
-Regardless of the sector like Health, E-commerce, Financial, or other; gathering data about customers' interactions with our products and services is key for understanding what our Clients think and do. This way we'll be able to <h4>make data-driven decisions and focus our strategy on what customers care about</h4>, for example, more benefits, faster assistance, etc. 
+Regardless of the sector like Health, E-commerce, Financial, or other; gathering data about customers' interactions with our products and services is key for understanding what our Clients think and do. This way we'll be able to <ins>make data-driven decisions and focus our strategy on what customers care about</ins>, for example, more benefits, faster assistance, etc. 
 
 Customer Relationship Manager (CRM) softwares like Salesforce or Microsoft Dynamics are great to gather and store omnichannel customer interactions as long as we have set a good business process and technical structure for it.
 
