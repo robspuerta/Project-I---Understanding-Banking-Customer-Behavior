@@ -34,6 +34,4 @@ This was an educational exercise, part of the [Google - Data Analytics Certifica
 
 #####This was an educational exercise, part of the [Google - Data Analytics Certification](https://www.linkedin.com/in/robin-puerta/) focused on How to collect, clean, process, and present data. You can check the full data structure and more on [GitHub/robspuerta](https://github.com/robspuerta/).
 
-<table><tr><td>This was an educational exercise, part of the [Google - Data Analytics Certification](https://www.linkedin.com/in/robin-puerta/) focused on How to collect, clean, process, and present data. You can check the full data structure and more on [GitHub/robspuerta](https://github.com/robspuerta/).</td></tr></table>
-
 <sub>This was an educational exercise, part of the [Google - Data Analytics Certification](https://www.linkedin.com/in/robin-puerta/) focused on How to collect, clean, process, and present data. You can check the full data structure and more on [GitHub/robspuerta](https://github.com/robspuerta/). </sub>
