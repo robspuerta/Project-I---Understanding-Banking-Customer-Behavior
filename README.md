@@ -3,7 +3,14 @@ Google Data Analytics Certification Capstone Project: Understanding Banking Cust
 
 <img src="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" alt="Robin Puerta Business Process Analyst + Product Analyst">
 
-Society grows and changes with time and this affects directly our consumer's behavior in unpredictable ways, even more with recent global events according to Time magazine. Is essential to grow and change with them, allocating our resources into what matters to our customers to keep competitive. 
+Society grows and changes with time and this affects directly our consumer's behavior in unpredictable ways, even more with recent global events according to [Time magazine](https://time.com/5947302/covid-19-data/). It is essential to grow and change with our Clients, allocating our resources to what matters to them to keep competitive. 
+
+## But how can we understand our customer's behaviors to make better decisions?
+
+
+
+
+
 
 But how can we understand our customer's behaviors to make better decisions?
 Regardless the sector like Health, E-commerce, Financial, or other; gathering data about customer's interactions with our products and services is key for understanding what our Clients think and do. This way we'll be able to make data-driven decisions and focus our strategy on what customers care about, for example, more discounts, faster assistance, etc. 
