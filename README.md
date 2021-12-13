@@ -19,7 +19,7 @@ A **Saving Account** life cycle could be: Consideration and Acquisition, Product
 
 Here we have 4 stages of our Customer Journey Map with 23 interactions of our Clients with their Saving Account:
 
-(image1)
+<img src="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior/blob/main/Customer%20Interactions%20-%20Robin%20Puerta.png" alt="Robin Puerta Business Process Analyst + Product Analyst"> 
 
 Now that we have collected data, we can analyze and make some educated guesses on the customer's behavior patterns, for example:
 
