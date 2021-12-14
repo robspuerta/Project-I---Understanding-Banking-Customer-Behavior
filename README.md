@@ -15,7 +15,7 @@ Customer Relationship Manager (CRM) softwares like Salesforce or Microsoft Dynam
 
 One way to set the structure of our CRM to collect data is using the *Customer Journey Map* exercise by answering two questions: <ins>What are the stages of our products/services life cycle</ins> and <ins>How do they interact with our products in each instance</ins>.
 
-A **Saving Account** life cycle could be: Consideration and Acquisition, Product Use, Complaints, and Attrition; and Customer interactions with the Bank (or product) could go from **#1** What is a Saving Account and **#4** how can I get it?, to more complex interactions like **#8** Transfers, **#9** withdrawals and **#12** Payments. <ins>All these actions can be identified, registered, and measured</ins>. 
+A **Saving Account** life cycle could be: Consideration and Acquisition, Product Use, Complaints, and Attrition; and Customer interactions with the Bank (or product) could go from **#1** What is a Saving Account and **#4** how can I get it?, to more complex interactions like **#8** Transfers, **#9** Withdrawals and **#12** Payments. <ins>All these actions can be identified, registered, and measured</ins>. 
 
 Here we have 4 stages of our Customer Journey Map with 23 interactions of our Clients with their Saving Account:
 
