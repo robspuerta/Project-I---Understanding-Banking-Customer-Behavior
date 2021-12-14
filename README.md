@@ -26,7 +26,7 @@ Now that we have collected data, we can analyze and make some educated guesses o
 >*"There is a big interest on 'opening new accounts' but there are many complaints related to 'Card deliveries' and 'Failed transactions', therefore, more people are 'sending/withdrawing' than 'receiving / depositing',  which is correlated with 'hidden fees' and 'deleted accounts'.* 
 ***Our focus on Card delivering and Transactions errors must be a priority."***
 
-Now that we have collected and processed all this as information, we can create new items on the *#ProductBacklog* (i.e., Card delivering status, Transactions bugs) so in the next *#Sprint* we can generate real value, changing and growing with our Clients, enhancing their experience.
+Now that we have collected and processed all this as information, we can create new items on the ***#ProductBacklog*** (i.e., Card delivering status, Transactions bugs) so in the next ***#Sprint*** we can generate real value, changing and growing with our Clients, enhancing their experience.
 
 Let me know in the comments what sector are you in and if your organization is constantly getting feedback from your Clients and improving its experience by making data-driven decisions.
 
