@@ -28,7 +28,7 @@ Now that we have collected data, we can analyze and make some educated guesses o
 
 Now that we have collected and processed all this as information, we can create new items on the *#ProductBacklog* (i.e., Card delivering status, Transactions bugs) so in the next *#Sprint* we can generate real value, changing and growing with our Clients, enhancing their experience.
 
-Let me know in the comments what sector are you in and if your organization is constantly getting feedback from your Clients and improving its experience by making data-driven decisions.   
+Let me know in the comments what sector are you in and if your organization is constantly getting feedback from your Clients and improving its experience by making data-driven decisions.
 
 This was an educational exercise, part of the [Google - Data Analytics Certification](https://www.linkedin.com/in/robin-puerta/) focused on How to collect, clean, process, and present data. You can check the full data structure and more on [GitHub/robspuerta](https://github.com/robspuerta/). 
 
