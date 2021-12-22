@@ -3,7 +3,7 @@ Google Data Analytics Certification Capstone Project: Understanding Banking Cust
 
 <img src="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" alt="Robin Puerta Business Process Analyst + Product Analyst">
 
-Society grows and changes with time and this affects directly our consumer's behavior in unpredictable ways, even more with recent global events according to [Time magazine](https://time.com/5947302/covid-19-data/). It is essential to grow and change with our Clients, allocating our resources to what matters to them to keep competitive. 
+Society grows and changes with time and this affects directly our consumer's behavior in unpredictable ways, even more with recent global events according to [Time magazine](https://time.com/5947302/covid-19-data/). It is essential to evolve with our Clients, allocating our resources to what matters to them to keep ourselves competitive. 
 
 ### But how can we understand our customer's behaviors to make better decisions?
 
@@ -21,7 +21,7 @@ Here we have 4 stages of our Customer Journey Map with 23 interactions of our Cl
 
 <img src="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior/blob/main/Customer%20Interactions%20-%20Robin%20Puerta.png" alt="Robin Puerta Business Process Analyst + Product Analyst"> 
 
-Now that we have collected data, we can analyze and make some educated guesses on the customer's behavior patterns, for example:
+Now that we have collected data, we can analyze and make some educated assumptions on the customer's behavior patterns, for example:
 
 >*"There is a big interest on 'opening new accounts' but there are many complaints related to 'Card deliveries' and 'Failed transactions', therefore, more people are 'sending/withdrawing' than 'receiving / depositing',  which is correlated with 'hidden fees' and 'deleted accounts'.* 
 ***Our focus on Card delivering and Transactions errors must be a priority."***
