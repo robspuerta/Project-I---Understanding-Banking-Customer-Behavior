@@ -1,7 +1,7 @@
 # Project I - Understanding Banking Customer Behavior
 Google Data Analytics Certification Capstone Project: Understanding Banking Customer Behavior
 
-<img src="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" alt="Robin Puerta Business Process Analyst + Product Analyst">
+<img src="https://github.com/robspuerta/Project-I-Understanding-Banking-Customer-Behavior/blob/main/Github%20repository%20banner.png" alt="Robin Puerta Business Process Analyst + Product Analyst">
 
 Society grows and changes with time and this affects directly our consumer's behavior in unpredictable ways, even more with recent global events according to [Time magazine](https://time.com/5947302/covid-19-data/). It is essential to evolve with our Clients, allocating our resources to what matters to them to keep ourselves competitive. 
 
